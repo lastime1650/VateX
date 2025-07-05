@@ -93,7 +93,7 @@ VateX NOTITIA extends your threat detection across network traffic, delivering i
 </div>
 
 **XIPHOS** means *sword* in Latin — symbolizing precision and defense.  
-Our Extended Detection and Response platform integrates endpoint, network, cloud, and application data into a unified, proactive defense system — cutting through threats with unparalleled accuracy and automation. 🤖🛡️
+Our Extended Detection and Response platform integrates endpoint, network, and application data into a unified, proactive defense system — cutting through threats with unparalleled accuracy and automation. 🤖🛡️
 
 ---
 
