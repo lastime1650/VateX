@@ -29,6 +29,7 @@ Designed for modern, distributed environments, VateX enables real-time threat de
 - ⚡ Real-time correlation and automated response 
 - 📊 Built-in dashboards and customizable alerts  
 - 🚀 Scalable for security research use
+- 🐳 Docker support for easy deployment and scalability
 
 Whether you're protecting a single system or an entire enterprise, **VateX helps you extend your edge — with confidence.**
 
