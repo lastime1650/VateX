@@ -1,14 +1,6 @@
 # VateX – eXtend the Edge
 
 <div align="center">
-  <img
-    src="https://github.com/lastime1650/VateX/blob/main/images/VATEX_ALL.png"
-    alt="VATEX All"
-    width="500"
-  />
-</div>
-
-<div align="center">
   <a href="https://opensourcesecurityindex.io/" target="_blank" rel="noopener">
     <img
       src="https://opensourcesecurityindex.io/badge.svg"
@@ -40,23 +32,58 @@ Whether you're protecting a single system or an entire enterprise, **VateX helps
 
 ## Introducing the VATEX Security Suite 🔐✨
 
+<div align="center">
+  <img
+    src="https://github.com/lastime1650/VateX/blob/main/images/VATEX_ALL.png"
+    alt="VATEX All"
+    width="500"
+  />
+</div>
+
 At VATEX, we deliver a comprehensive security ecosystem, evolving from endpoint protection to extended detection and response — powered by Latin-inspired product names that embody our vision. 🚀
 
 ---
 
-### 1. VateX EVIDENTIA (EDR) 🔎  
+### 1. VateX EVIDENTIA (EDR) 🔎 
+
+<div align="center">
+  <img
+    src="https://github.com/lastime1650/VateX/blob/main/images/VATEX_EDR_RENDERED.png"
+    alt="VATEX EDR"
+    width="400"
+  />
+</div>
+
 **EVIDENTIA** means *clarity* or *evidence* in Latin.  
 Our Endpoint Detection and Response solution provides crystal-clear visibility into endpoint activity, rapidly detecting and responding to threats at the device level to keep your infrastructure safe. 🛡️💻
 
 ---
 
 ### 2. VateX NOTITIA (NDR) 🌐  
+
+<div align="center">
+  <img
+    src="https://github.com/lastime1650/VateX/blob/main/images/VATEX_NDR_RENDERED.png"
+    alt="VATEX NDR"
+    width="400"
+  />
+</div>
+
 **NOTITIA** means *knowledge* or *information* in Latin.  
 VateX NOTITIA extends your threat detection across network traffic, delivering intelligent analysis and early warning of hidden or lateral attacks, ensuring your network remains transparent and secure. 🔍📡
 
 ---
 
 ### 3. VateX XIPHOS (XDR) ⚔️  
+
+<div align="center">
+  <img
+    src="https://github.com/lastime1650/VateX/blob/main/images/VATEX_XDR_RENDERED.png"
+    alt="VATEX XDR"
+    width="400"
+  />
+</div>
+
 **XIPHOS** means *sword* in Latin — symbolizing precision and defense.  
 Our Extended Detection and Response platform integrates endpoint, network, cloud, and application data into a unified, proactive defense system — cutting through threats with unparalleled accuracy and automation. 🤖🛡️
 
