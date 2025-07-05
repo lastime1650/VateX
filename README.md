@@ -1,5 +1,7 @@
 # VateX – eXtend the Edge
 
+![initial](https://github.com/lastime1650/VateX/blob/main/images/VATEX_ALL.png)
+
 <a href="https://opensourcesecurityindex.io/" target="_blank" rel="noopener">
     <img
         src="https://opensourcesecurityindex.io/badge.svg"
