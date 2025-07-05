@@ -1,15 +1,23 @@
 # VateX – eXtend the Edge
 
-![initial](https://github.com/lastime1650/VateX/blob/main/images/VATEX_ALL.png)
-
-<a href="https://opensourcesecurityindex.io/" target="_blank" rel="noopener">
+<div align="center">
+  <a href="https://opensourcesecurityindex.io/" target="_blank" rel="noopener">
     <img
-        src="https://opensourcesecurityindex.io/badge.svg"
-        alt="Open Source Security Index - Fastest Growing Open Source Security Projects"
-        width="282"
-        height="56"
+      src="https://opensourcesecurityindex.io/badge.svg"
+      alt="Open Source Security Index - Fastest Growing Open Source Security Projects"
+      width="282"
+      height="56"
     />
-</a>
+  </a>
+</div>
+
+<div align="center">
+  <img
+    src="https://github.com/lastime1650/VateX/blob/main/images/VATEX_ALL.png"
+    alt="VATEX All"
+    width="400"
+  />
+</div>
 
 **VateX** (VATES eXtended) is an open-source unified cybersecurity solution that integrates **XDR (Extended Detection and Response)**, **NDR (Network Detection and Response)**, and **EDR (Endpoint Detection and Response)** into a single powerful platform.
 
