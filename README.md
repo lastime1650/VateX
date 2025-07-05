@@ -4,7 +4,7 @@
   <img
     src="https://github.com/lastime1650/VateX/blob/main/images/VATEX_ALL.png"
     alt="VATEX All"
-    width="400"
+    width="500"
   />
 </div>
 
