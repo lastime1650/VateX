@@ -24,3 +24,31 @@ Whether you're protecting a single system or an entire enterprise, **VateX helps
 
 > **VateX = VATES + eXtend**  
 > “Vates” means *seer or prophet* in Latin — and VateX delivers the foresight your security strategy needs.
+
+<br>
+
+## Introducing the VATEX Security Suite 🔐✨
+
+At VATEX, we deliver a comprehensive security ecosystem, evolving from endpoint protection to extended detection and response — powered by Latin-inspired product names that embody our vision. 🚀
+
+---
+
+### 1. VateX EVIDENTIA (EDR) 🔎  
+**EVIDENTIA** means *clarity* or *evidence* in Latin.  
+Our Endpoint Detection and Response solution provides crystal-clear visibility into endpoint activity, rapidly detecting and responding to threats at the device level to keep your infrastructure safe. 🛡️💻
+
+---
+
+### 2. VateX NOTITIA (NDR) 🌐  
+**NOTITIA** means *knowledge* or *information* in Latin.  
+VateX NOTITIA extends your threat detection across network traffic, delivering intelligent analysis and early warning of hidden or lateral attacks, ensuring your network remains transparent and secure. 🔍📡
+
+---
+
+### 3. VateX XIPHOS (XDR) ⚔️  
+**XIPHOS** means *sword* in Latin — symbolizing precision and defense.  
+Our Extended Detection and Response platform integrates endpoint, network, cloud, and application data into a unified, proactive defense system — cutting through threats with unparalleled accuracy and automation. 🤖🛡️
+
+---
+
+Together, these solutions form the VATEX Security Suite — designed to eXtend your edge and empower your cybersecurity strategy at every layer. 💪🌟
