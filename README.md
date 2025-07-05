@@ -13,8 +13,8 @@
     <img
       src="https://opensourcesecurityindex.io/badge.svg"
       alt="Open Source Security Index - Fastest Growing Open Source Security Projects"
-      width="282"
-      height="56"
+      width="100"
+      height="20"
     />
   </a>
 </div>
