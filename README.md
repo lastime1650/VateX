@@ -25,7 +25,7 @@ Designed for modern, distributed environments, VateX enables real-time threat de
 
 Whether you're protecting a single system or an entire enterprise, **VateX helps you extend your edge — with confidence.**
 
-> **VateX = VATES + eXtend**  
+> **VateX = VATES + eXtended**  
 > “Vates” means *seer or prophet* in Latin — and VateX delivers the foresight your security strategy needs.
 
 <br>
