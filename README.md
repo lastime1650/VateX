@@ -1,6 +1,14 @@
 # VateX – eXtend the Edge
 
 <div align="center">
+  <img
+    src="https://github.com/lastime1650/VateX/blob/main/images/VATEX.png"
+    alt="VATEX LOGO"
+    width="500"
+  />
+</div>
+
+<div align="center">
   <a href="https://opensourcesecurityindex.io/" target="_blank" rel="noopener">
     <img
       src="https://opensourcesecurityindex.io/badge.svg"
