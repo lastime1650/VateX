@@ -1,6 +1,6 @@
 
 > [!CAUTION]
-> This is a project we are currently planning.
+> This is a project I am currently planning.
 > It will be implemented within this year.
 
 # VateX – eXtend the Edge
