@@ -104,7 +104,7 @@ Our Extended Detection and Response platform integrates endpoint, network, and a
 
 ---
 
-### 4. VateX MAGISTER (MDR) ⚔️  
+### 4. VateX MAGISTER (MDR) 🛡︎  
 
 <div align="center">
   <img
