@@ -47,7 +47,7 @@ Whether you're protecting a single system or an entire enterprise, **VateX helps
 
 <div align="center">
   <img
-    src="https://github.com/lastime1650/VateX/blob/main/images/VATEX_ALL.png"
+    src="https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_ALL_2.png"
     alt="VATEX All"
     width="500"
   />
@@ -61,7 +61,7 @@ At VATEX, we deliver a comprehensive security ecosystem, evolving from endpoint 
 
 <div align="center">
   <img
-    src="https://github.com/lastime1650/VateX/blob/main/images/VATEX_EDR_RENDERED.png"
+    src="https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_EDR_RENDERED.png"
     alt="VATEX EDR"
     width="400"
   />
@@ -76,7 +76,7 @@ Our Endpoint Detection and Response solution provides crystal-clear visibility i
 
 <div align="center">
   <img
-    src="https://github.com/lastime1650/VateX/blob/main/images/VATEX_NDR_RENDERED.png"
+    src="https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_NDR_RENDERED.png"
     alt="VATEX NDR"
     width="400"
   />
@@ -91,7 +91,7 @@ VateX NOTITIA extends your threat detection across network traffic, delivering i
 
 <div align="center">
   <img
-    src="https://github.com/lastime1650/VateX/blob/main/images/VATEX_XDR_RENDERED.png"
+    src="https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_XDR_RENDERED.png"
     alt="VATEX XDR"
     width="400"
   />
@@ -101,5 +101,20 @@ VateX NOTITIA extends your threat detection across network traffic, delivering i
 Our Extended Detection and Response platform integrates endpoint, network, and application data into a unified, proactive defense system — cutting through threats with unparalleled accuracy and automation. 🤖🛡️
 
 ---
+
+---
+
+### 4. VateX MAGISTER (MDR) ⚔️  
+
+<div align="center">
+  <img
+    src="https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_MDR_RENDERED.png"
+    alt="VATEX XDR"
+    width="400"
+  />
+</div>
+
+**MAGISTER** means *master* in Latin — the overall commander(master).
+Access to all of our VateX security solutions (EDR, NDR, XDR, etc, etc.) and control them according to the overall security situation. You can also leverage the AI Agent for your experience to interactively control all of VateX's security solutions. 🗫🖧
 
 Together, these solutions form the VATEX Security Suite — designed to eXtend your edge and empower your cybersecurity strategy at every layer. 💪🌟
