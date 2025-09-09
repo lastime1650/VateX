@@ -24,7 +24,7 @@
   </a>
 </div>
 
-**VateX** (VATES + eXtend the Edge) is an open-source unified cybersecurity solution that integrates **XDR (Extended Detection and Response)**, **NDR (Network Detection and Response)**, and **EDR (Endpoint Detection and Response)** into a single powerful platform.
+**VateX** (VATES + eXtend the Edge) is an open-source unified cybersecurity solution that integrates **XDR (Extended Detection and Response)**, **NDR (Network Detection and Response)**, **EDR (Endpoint Detection and Response)**, **MDR (Managed Detection and Response)** into a single powerful platform.
 
 Designed for modern, distributed environments, VateX enables real-time threat detection, deep visibility across endpoints and networks, and intelligent automated response — all in an open.
 
