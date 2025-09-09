@@ -30,7 +30,7 @@ Designed for modern, distributed environments, VateX enables real-time threat de
 
 ## ✨ Key Features
 
-- 🔍 Unified detection engine for XDR/NDR/EDR  
+- 🔍 Unified detection engine for XDR/NDR/EDR/MDR  
 - ⚡ Real-time correlation and automated response 
 - 📊 Built-in dashboards and customizable alerts  
 - 🚀 Scalable for security research use
