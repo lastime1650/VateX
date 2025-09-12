@@ -57,7 +57,7 @@ At VATEX, we deliver a comprehensive security ecosystem, evolving from endpoint 
 
 ---
 
-### 1. VateX EVIDENTIA (EDR) 🔎 
+### 1. [VateX EVIDENTIA (EDR)](https://github.com/lastime1650/VATEX_EVIDENTIA_EDR) 🔎 
 
 <div align="center">
   <img
