@@ -4,7 +4,7 @@
 > It will be implemented within this year.
 
 > [!NOTE]
-> Now, Developing to this project
+> Now, Developing this project
 
 # VateX – eXtend the Edge
 
