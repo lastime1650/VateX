@@ -3,6 +3,9 @@
 > This is a project I am currently planning.
 > It will be implemented within this year.
 
+> [!NOTE]
+> Now, Developing to this project
+
 # VateX – eXtend the Edge
 
 <div align="center">
