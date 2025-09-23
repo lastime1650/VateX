@@ -105,8 +105,6 @@ Our Extended Detection and Response platform integrates endpoint, network, and a
 
 ---
 
----
-
 ### 4. VateX MAGISTER (MDR) 🛡︎  
 
 <div align="center">
@@ -119,5 +117,16 @@ Our Extended Detection and Response platform integrates endpoint, network, and a
 
 **MAGISTER** means *master* in Latin — the overall commander(master).
 Access to all of our VateX security solutions (EDR, NDR, XDR, etc, etc.) and control them according to the overall security situation. You can also leverage the AI Agent for your experience to interactively control all of VateX's security solutions. 🗫🖧
+
+
+---
+
+### 5. VateX INTELLINA (Intelligence Platform) 💗
+
+**INTELLINA** is a word that combines the word INTELLEIGENCE with "LINA" in Latin, which means "soft" in the name of a woman.
+It includes the ability to extract its own threat features by reading known threat indicators (IOCs) as well as actual requested binaries. 🧠
+
+
+---
 
 Together, these solutions form the VATEX Security Suite — designed to eXtend your edge and empower your cybersecurity strategy at every layer. 💪🌟
