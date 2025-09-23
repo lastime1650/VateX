@@ -123,7 +123,7 @@ Access to all of our VateX security solutions (EDR, NDR, XDR, etc, etc.) and con
 
 ### 5. VateX INTELLINA (Intelligence Platform) 💗
 
-**INTELLINA** is a word that combines the word INTELLEIGENCE with "LINA" in Latin, which means "soft" in the name of a woman.
+**INTELLINA** is a word that combines the word INTELLIGENCE with "LINA" in Latin **(INTELLIGENCE + LINA)** , which means "soft" in the name of a woman.
 It includes the ability to extract its own threat features by reading known threat indicators (IOCs) as well as actual requested binaries. 🧠
 
 
