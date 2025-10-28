@@ -124,10 +124,23 @@ Our Extended Detection and Response platform integrates endpoint, network, and a
 **SAPIENTIA** means "wisdom" in Latin.
 It connects with EDR, NDR, and XDR as well as AI to collect the log of all solutions comprehensively and provide AI-based predictive information. 🗫🖧
 
-
 ---
 
-### 5. VateX INTELLINA (Intelligence Platform) 💗
+
+### 5. VateX SENTINELLA (SOAR) 🛡︎  
+
+<div align="center">
+  <img
+    src="https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_SOAR_RENDERED.png"
+    alt="VATEX XDR"
+    width="400"
+  />
+</div>
+
+**SENTINELLA** is a Latin word that means "guardian" in many meanings.
+This is a security orchestration solution using a user-friendly, simple, and powerful AI agent connected to the entire platform of the VATEX solution such as EDR, NDR, XDR, and SIEM etc....
+
+### 6. VateX INTELLINA (Intelligence Platform) 💗
 
 **INTELLINA** is a word that combines the word INTELLIGENCE with "LINA" in Latin **(INTELLIGENCE + LINA)** , which means "soft" in the name of a woman.
 It includes the ability to extract its own threat features by reading known threat indicators (IOCs) as well as actual requested binaries. 🧠
