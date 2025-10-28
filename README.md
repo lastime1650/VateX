@@ -50,7 +50,7 @@ Whether you're protecting a single system or an entire enterprise, **VateX helps
 
 <div align="center">
   <img
-    src="https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_ALL_2.png"
+    src="https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_ALL_3.png"
     alt="VATEX All"
     width="500"
   />
