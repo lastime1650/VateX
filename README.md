@@ -60,6 +60,12 @@ At VATEX, we deliver a comprehensive security ecosystem, evolving from endpoint 
 
 ---
 
+## VateX Line-Up Structure
+
+![initial](https://github.com/lastime1650/VateX/blob/mainv2/images/LINE_UP_1.png)
+
+---
+
 ### 1. [VateX EVIDENTIA (EDR)](https://github.com/lastime1650/VATEX_EVIDENTIA_EDR) 🔎 
 
 <div align="center">
@@ -105,18 +111,18 @@ Our Extended Detection and Response platform integrates endpoint, network, and a
 
 ---
 
-### 4. VateX MAGISTER (MDR) 🛡︎  
+### 4. VateX SAPIENTIA (SIEM) 🛡︎  
 
 <div align="center">
   <img
-    src="https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_MDR_RENDERED.png"
+    src="https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_SIEM_RENDERED.png"
     alt="VATEX XDR"
     width="400"
   />
 </div>
 
-**MAGISTER** means *master* in Latin — the overall commander(master).
-Access to all of our VateX security solutions (EDR, NDR, XDR, etc, etc.) and control them according to the overall security situation. You can also leverage the AI Agent for your experience to interactively control all of VateX's security solutions. 🗫🖧
+**SAPIENTIA** means "wisdom" in Latin.
+It connects with EDR, NDR, and XDR as well as AI to collect the log of all solutions comprehensively and provide AI-based predictive information. 🗫🖧
 
 
 ---
