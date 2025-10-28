@@ -81,7 +81,7 @@ Our Endpoint Detection and Response solution provides crystal-clear visibility i
 
 ---
 
-### 2. VateX NOTITIA (NDR) 🌐  
+### 2. [VateX NOTITIA (NDR)](https://github.com/lastime1650/VATEX_NOTITIA_NDR) 🌐  
 
 <div align="center">
   <img
@@ -111,7 +111,7 @@ Our Extended Detection and Response platform integrates endpoint, network, and a
 
 ---
 
-### 4. VateX SAPIENTIA (SIEM) 🛡︎  
+### 4. [VateX SAPIENTIA (SIEM)](https://github.com/lastime1650/VATEX_SAPIENTIA_SIEM) 🛡︎  
 
 <div align="center">
   <img
