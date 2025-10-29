@@ -62,7 +62,7 @@ At VATEX, we deliver a comprehensive security ecosystem, evolving from endpoint 
 
 ## VateX Line-Up Structure
 
-![initial](https://github.com/lastime1650/VateX/blob/mainv2/images/LINE_UP_1.png)
+![initial](https://github.com/lastime1650/VateX/blob/mainv2/images/LINE_UP_2.png)
 
 ---
 
