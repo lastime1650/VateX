@@ -140,7 +140,7 @@ It connects with EDR, NDR, and XDR as well as AI to collect the log of all solut
 **SENTINELLA** is a Latin word that means "guardian" in many meanings.
 This is a security orchestration solution using a user-friendly, simple, and powerful AI agent connected to the entire platform of the VATEX solution such as EDR, NDR, XDR, and SIEM etc....
 
-### 6. VateX INTELLINA (Intelligence Platform) 💗
+### 6. [VateX INTELLINA (Intelligence Platform)](https://github.com/lastime1650/VATEX_INTELLINA_INTELLIGENCE) 💗
 
 ![initial](https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_INTELLINA.png)
 
