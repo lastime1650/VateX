@@ -142,6 +142,8 @@ This is a security orchestration solution using a user-friendly, simple, and pow
 
 ### 6. VateX INTELLINA (Intelligence Platform) 💗
 
+![initial](https://github.com/lastime1650/VateX/blob/mainv2/images/VATEX_INTELLINA.png)
+
 **INTELLINA** is a word that combines the word INTELLIGENCE with "LINA" in Latin **(INTELLIGENCE + LINA)** , which means "soft" in the name of a woman.
 It includes the ability to extract its own threat features by reading known threat indicators (IOCs) as well as actual requested binaries. 🧠
 
