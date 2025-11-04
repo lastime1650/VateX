@@ -6,6 +6,12 @@
 > [!NOTE]
 > Now, Developing this project
 
+> [!IMPORTANT]
+> **More than 90% developed security solutions**
+>
+> 1. [VateX NOVA AI](https://github.com/lastime1650/VATEX_NOVA_AI) 💗
+> 2. [VateX INTELLINA (Intelligence Platform)](https://github.com/lastime1650/VATEX_INTELLINA_INTELLIGENCE) 💗
+
 # VateX – eXtend the Edge
 
 <div align="center">
