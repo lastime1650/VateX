@@ -133,7 +133,7 @@ It connects with EDR, NDR, and XDR as well as AI to collect the log of all solut
 ---
 
 
-### 5. VateX SENTINELLA (SOAR) 🛡︎  
+### 5. [VateX SENTINELLA (SOAR)](https://github.com/lastime1650/VATEX_SENTINELLA_SOAR) 🛡︎  
 
 <div align="center">
   <img
